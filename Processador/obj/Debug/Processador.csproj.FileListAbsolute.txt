@@ -1,0 +1,10 @@
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\bin\Debug\Processador.exe.config
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\bin\Debug\Processador.exe
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\bin\Debug\Processador.pdb
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\obj\Debug\Processador.csprojResolveAssemblyReference.cache
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\obj\Debug\Processador.Form1.resources
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\obj\Debug\Processador.Properties.Resources.resources
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\obj\Debug\Processador.csproj.GenerateResource.Cache
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\obj\Debug\Processador.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\obj\Debug\Processador.exe
+C:\Users\asus\OneDrive\C#\Processador\Processador\Processador\obj\Debug\Processador.pdb
